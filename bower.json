@@ -1,0 +1,13 @@
+{
+  "name": "WhatNotToDo",
+  "version": "0.0.0",
+  "authors": [
+    "Vikram K Ponnoju <vikramponnoju@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "angular": "angularjs#~1.4.5",
+    "bootstrap": "~3.3.5"
+  }
+}
